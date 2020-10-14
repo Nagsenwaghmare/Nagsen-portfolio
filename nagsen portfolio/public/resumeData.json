@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "Nagsen",
+    "occupation": "Front end developer",
+    "description": "Front end Developer by Day, influencer at Techno web solutions",
+    "image": "nagsen.jpeg",
+    "bio": "My name is nagsen, I'm a front end  Developer. Currently I'm studying at IIT Bhubneswar ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "nagsenwaghmare559@gmail.com",
+    "phone": "+91 9689470915",
+    "address": {
+      "street": "426 BHR ,IITBBS campus",
+      "city": "bhubneswar",
+      "state": "odisa",
+      "zip": "ABC 123"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/nagsen.waghmare.731",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nagsen-waghmare-b97202191/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/waghmare_nagsen/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Nagsenwaghmare",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "here you will find my education and works.",
+    "education": [
+      {
+        "school": "IIT Bhubneswar",
+        "degree": "bachlor in mechanical engg",
+        "graduation": "2023",
+       
+      }
+    ],
+    "work": [
+      {
+        "company": "internshala",
+        "title": "internshala student partner && ITC",
+        "years": "sep 2020 - Present",
+        "description": "Helping students to learn new skills."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "javascript",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "“The Best Way To Get Started Is To Quit Talking And Begin Doing.”",
+        "user": " – Walt Disney"
+      },
+      {
+        "text": "The fundamental energy of nature is called ‘KI(Qi)’ or ‘SEIKI‘. Sometimes, ‘REIKI or SHINKI’ as well. SEIKI is the life energy itself and the source of activity. A person becomes obedient and get well when they come into contact with nature.",
+        "user": "_ Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
