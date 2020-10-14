@@ -10,7 +10,7 @@
     "phone": "+91 9689470915",
     "address": {
       "street": "426 BHR ,IITBBS campus",
-      "city": "bhubneswar",
+      "city": "Bhubneswar",
       "state": "odisa",
       "zip": "ABC 123"
     },
@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "here you will find my education and works.",
+    "skillmessage": "Here you will find my education and works.",
     "education": [
       {
         "school": "IIT Bhubneswar",
@@ -51,8 +51,8 @@
     ],
     "work": [
       {
-        "company": "internshala",
-        "title": "internshala student partner && ITC",
+        "company": "Internshala",
+        "title": "Internshala student partner && ITC",
         "years": "sep 2020 - Present",
         "description": "Helping students to learn new skills."
       }
